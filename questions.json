@@ -1,0 +1,71 @@
+[
+    {
+        "question" :"Name the first cricketer to score 1000 runs in an innings in any competitive match",
+        "choice1" : "Prithvi Shaw",
+        "choice2" : "Pranav Dhanawade",
+        "choice3" : "Virat Kohli",
+        "choice4" : "Shikhar Dhawan",
+        "answer" : "2"
+    },
+    {
+        "question":  "Who won the Durand Cup 2019? ",
+        "choice1" :" Mohun Bagan",
+        "choice2" : "Gokulam Kerala",
+        "choice3" : "Indian Navy",
+        "choice4" : "FC Goa",
+        "answer" : "2"
+    
+    },
+    {
+        "question":  "For which of the following sports the famous “Golden Ball Award” is presented?",
+        "choice1" : "Cricket",
+        "choice2" : "Hockey",
+        "choice3" : "Football",
+        "choice4" :" Tennis",
+        "answer" : "3"
+    },
+    {
+        "question":  "How is Gurjeet Kaur related to sports?",
+        "choice1" : "Hockey",
+        "choice2" : "Football",
+        "choice3" : "Tennis",
+        "choice4" : "Cricket",
+        "answer" : "1"
+    },
+   
+   {
+        "question":  "Beighton Cup is associated with which of the following?",
+        "choice1" : "Cricket",
+        "choice2" : "Hockey",
+        "choice3" : "Football",
+        "choice4" : "Volleyball",
+        "answer"  : "2"
+   },    
+    {
+        "question":  "Famous Swimmer Michel Flaps related to____.",
+        "choice1" : "Austrilia",
+        "choice2" : "Narve",
+        "choice3" : "Switergerland",
+        "choice4" : "America",
+        "answer" : "4"
+    },
+
+    {   "question":  "According to international standard, what is the distance of marathon race?",
+        "choice1" : "26 miles 385 yards",
+        "choice2" : "26 miles",
+        "choice3" : "36 miles 500 yards",
+        "choice4" : "22 miles",
+        "answer" : "1"
+    },
+
+    { "question":  "FIFA was founded in",
+        "choice1" : "Italy",
+        "choice2" : "France",
+        "choice3" : "England",
+        "choice4" : "Spain",
+        "answer" : "2"
+
+}
+    
+]
+
